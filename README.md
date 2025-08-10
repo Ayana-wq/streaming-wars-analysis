@@ -54,7 +54,7 @@ Project Status
 
 
 
-About the Author
+
 
 Aiana  — M.S. Information Technology student focused on data analytics and business insight.  
 Previous background in economics and software development.  
