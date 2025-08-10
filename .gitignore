@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore raw data files (optional, keeps repo small)
+data/raw/
